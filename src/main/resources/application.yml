@@ -1,0 +1,5 @@
+axon:
+  kafka:
+    bootstrap-servers: localhost:9092
+    client-id: axon-kafka-test
+    default-topic: test.topic
